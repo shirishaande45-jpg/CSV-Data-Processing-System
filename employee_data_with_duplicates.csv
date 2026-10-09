@@ -1,0 +1,21 @@
+Employee_ID,Name,Age,Department,Salary
+E001,Ananya Rao,24.0,IT,45000.0
+E002,Rahul Sharma,29.0,Finance,52000.0
+E003,Priya Reddy,,HR,41000.0
+E004,Kiran Kumar,31.0,IT,61000.0
+E005,Meena Patel,27.0,Marketing,
+E006,Arjun Verma,35.0,Finance,72000.0
+E007,Sana Khan,26.0,HR,44000.0
+E008,Vikram Das,30.0,IT,58000.0
+E009,Divya Nair,28.0,Marketing,49000.0
+E010,Rohit Singh,33.0,Finance,68000.0
+E001,Ananya Rao,24.0,IT,45000.0
+E012,Priya Reddy,,HR,41000.0
+E013,Kiran Kumar,31.0,IT,61000.0
+E014,Neha Joshi,22.0,Marketing,39000.0
+E015,Sana Khan,26.0,HR,44000.0
+E016,Manoj Iyer,41.0,Finance,85000.0
+E017,Asha Menon,25.0,IT,47000.0
+E018,Rahul Sharma,29.0,Finance,52000.0
+E019,Farhan Ali,34.0,Marketing,63000.0
+E020,Meena Patel,27.0,Marketing,
